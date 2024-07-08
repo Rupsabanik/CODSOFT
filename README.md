@@ -10,7 +10,7 @@ Mobile app signup </br>
 <p>
 
 #### Download From Here
- <h3><a href='https://www.figma.com/design/Bng170M89dKEWhHfOQKtfq/Untitled?node-id=15-2&t=5NIDd5Z5mrNJc4YE-1'></a></h3> 
+ <h3><a href='https://www.figma.com/design/Bng170M89dKEWhHfOQKtfq/Untitled?node-id=15-2&t=5NIDd5Z5mrNJc4YE-1'>view</a></h3> 
 </p>
 </details>
 
