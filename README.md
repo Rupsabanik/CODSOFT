@@ -31,11 +31,14 @@
 
 #### Download From Here
  <h3><a href='https://www.figma.com/design/Bng170M89dKEWhHfOQKtfq/Untitled?node-id=56-2&t=KJUmBoMOGat9sVgU-1'>click view</a></h3> 
+  <h3><a href='https://www.figma.com/proto/Bng170M89dKEWhHfOQKtfq/Untitled?node-id=1-3&t=Ov7UT5qTJJLUedKk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3'>click</a></h3> 
+ 
 </p>
 </details>
 
 ### Screenshots
 ![email template](https://github.com/user-attachments/assets/1f492876-0eff-41bc-be13-79739d6e7160)
+
 
 
 <div id="header" align="center">
