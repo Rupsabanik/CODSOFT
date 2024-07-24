@@ -32,7 +32,7 @@
 
 #### To see preview
 
-  <h3><a href='https://www.figma.com/proto/Bng170M89dKEWhHfOQKtfq/Untitled?node-id=56-2&t=faHhz9jtCaXAr5uz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3'>preview</a></h3> 
+  <h3><a href='https://www.figma.com/proto/Bng170M89dKEWhHfOQKtfq/Untitled?node-id=56-2&t=78u21S6629F4VyGr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3'>preview</a></h3> 
  
 </p>
 </details>
